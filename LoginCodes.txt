@@ -1,0 +1,15 @@
+In order to login as a cashier use one of the following sets
+	
+	User: Foteini
+	Pass: Dede
+
+	User: Ntinos
+	Pass: Vourloumis
+
+	User: Anna
+	Pass: Gouma
+
+In order to login as a manager use one of the following sets
+
+	User: Manager
+	Pass: 8igB0$$

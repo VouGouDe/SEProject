@@ -9,3 +9,7 @@ Admins can create accounts and delete them, as well as create events and delete 
 They also have access to statistics regarding the ticket sales of each event.
 
 Cashiers can choose an event, select tickets (where applicable), finalize the purchase and print the tickets.
+
+
+Please refer to the "AboutDatabaseConnection.txt" and "LoginCodes.txt" files. 
+They contain crucial information on how to run the application. 

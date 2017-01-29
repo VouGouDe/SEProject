@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TicketSales</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>mysql-5.7.17-winx64</name>
+			<type>2</type>
+			<location>C:/Users/User/Desktop/mysql-5.7.17-winx64</location>
+		</link>
+		<link>
+			<name>mysql-5.7.17-winx64/mysql-connector-java-5.1.40</name>
+			<type>2</type>
+			<location>C:/mysql-connector-java-5.1.40</location>
+		</link>
+	</linkedResources>
+</projectDescription>

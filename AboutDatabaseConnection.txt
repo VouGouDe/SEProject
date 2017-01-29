@@ -1,0 +1,12 @@
+In order for the application to connect with the mySQL Server,
+there needs to be a user with the following credentials
+
+	username: user
+	password: password
+
+with full privileges. Otherwise changes are needed in the "ConnectionToMySQL.java" file.
+
+Once the database has been loaded, simply run the "TicketSales.jar".
+
+It is an executable version of the application with all the necessary 
+.jar file incorporated.
